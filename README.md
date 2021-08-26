@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shymori;
+- 👀 I’m interested in eletronic and web design;
+- 🌱 I’m currently learning computer engineer and i do some courses that i find online.
+- 💞️ I’m looking to collaborate on ... i am not sure yet.
+- 📫 How to reach me: lauracecilia.net@gmail.com
