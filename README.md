@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning computer engineering and i do some courses that i find online.
 - 💞️ I’m looking to collaborate on web development, i like to make websites.
 - 📫 How to reach me: lauracecilia.net@gmail.com or https://www.linkedin.com/in/laura-cecília/
-- 💻 My website: https://lauracecilia.rf.gd
+- 💻 My website: http://lauracecilia.rf.gd
