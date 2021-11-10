@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shymori;
 - 👀 I’m interested in eletronic and web development;
 - 🌱 I’m currently learning computer engineering and i do some courses that i find online.
-- 💞️ I’m looking to collaborate on ... i am not sure yet.
-- 📫 How to reach me: lauracecilia.net@gmail.com
+- 💞️ I’m looking to collaborate on web development, i like to make websites.
+- 📫 How to reach me: lauracecilia.net@gmail.com or https://www.linkedin.com/in/laura-cecília/
